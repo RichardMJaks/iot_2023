@@ -9,14 +9,14 @@ As students in this class, we agree to fulfill and present the results of a sele
 - (O) Button to LED directly on the microcontroller. (Resistance, PULLUP/PULLDOWN, V.Divider later).
   - Read more about PULLUP/PULLDOWN resistors.
   - What is the option INPUT_PULLUP?
-  - Computer (browser or phone) to Microcontroller via Webrequest.
-  - Install webhook, flask, or express and generate memes and/or jokes on request with browser and curl or httpie. Use at least two different forms of requests (get/put).
-  - Computer (browser or phone) to microcontroller onboard LED via Web request.
-  - WiFi and HTTP on the microcontroller consume the web endpoint of another microcontroller. The button turns on the onboard LED on the other.
-  - Button to Webhook (output locally on stdout).
-  - Button to Webhook, Webhook to curl to Led. (Integration step).
-  - What is the advantage of having a gateway in the middle?
-  - Add more hardware: the second node with a button to change colors on an RGB led.
+- Computer (browser or phone) to Microcontroller via Webrequest.
+  - (O) Install webhook, flask, or express and generate memes and/or jokes on request with browser and curl or httpie. Use at least two different forms of requests (get/put).
+  - (M) Computer (browser or phone) to microcontroller onboard LED via Web request.
+  - (O) WiFi and HTTP on the microcontroller consume the web endpoint of another microcontroller. The button turns on the onboard LED on the other.
+  - (O) Button to Webhook (output locally on stdout).
+  - (O) Button to Webhook, Webhook to curl to Led. (Integration step).
+    - What is the advantage of having a gateway in the middle?
+  - (O) Add more hardware: the second node with a button to change colors on an RGB led.
 
 - (M) SSH key exchange so that every team member can log in without a password.
 - (M) Central team git repository on the gateway with the option to pull - small stack to automate the pull via SSH from one of your laptops.
