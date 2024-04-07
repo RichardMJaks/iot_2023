@@ -1,5 +1,5 @@
 #include <ESP8266WiFi.h>
-
+'''
 const char* wifiSSID = "iotempire-slavenet"; // Ваш SSID WiFi
 const char* wifiPassword = "iotempire"; // Ваш пароль WiFi
 
@@ -69,6 +69,7 @@ void toggleLEDonServer() {
   }
 
   colorMode = (colorMode + 1) % 4; // Перемикайте на наступний колір або вимкніть
+'''
 
   // Дайте серверу час на обробку запиту
   delay(1000);
