@@ -1,0 +1,1 @@
+During the lecture, I know MQTT (Message Queuing Telemetry Transport) is a lightweight messaging protocol designed for efficient communication between devices in constrained environments, such as those with low bandwidth, high latency, or limited processing capabilities. Beisdes, we tried to set up a team router.We met some little problems. But we solved it through the video. 
