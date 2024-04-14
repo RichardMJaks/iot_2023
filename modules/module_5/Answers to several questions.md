@@ -1,0 +1,4 @@
+Why framework?
+Simplified Development Process: Frameworks provide a ready-made structure and set of functionalities which simplify the development process, reducing the need to write extensive code from scratch. This leads to faster development and deployment cycles.
+Consistency and Best Practices: Using a framework ensures that development follows industry standards and best practices, leading to more reliable and maintainable code. Frameworks often enforce architectural best practices like MVC (Model-View-Controller), which help in organizing code better.
+Efficiency and Scalability: Frameworks can handle basic and repetitive tasks automatically, such as data management, security features, and logging, which can improve the efficiency of applications. They are also designed to be scalable, accommodating an increase in application demands.
