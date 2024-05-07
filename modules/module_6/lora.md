@@ -1,0 +1,1 @@
+LoRa, which stands for Long Range, is a wireless communication technology developed by Semtech Corporation. It is designed to enable long-range communication between IoT (Internet of Things) devices while consuming minimal power. LoRa operates in the unlicensed ISM (Industrial, Scientific, and Medical) bands, typically at frequencies such as 433 MHz, 868 MHz, and 915 MHz.
